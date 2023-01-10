@@ -1,3 +1,5 @@
+> This fork added support for Keychron V2 Knob according to [this article](https://www.describee.com/how-to-install-vial-firmware-on-the-keychron-q1-knob-and-other-keychron-qmk-keyboards/?unapproved=12465&moderation-hash=11c0d9d431197e5705b8cee01ba5abc2#comment-12465).
+
 # Quantum Mechanical Keyboard Firmware
 
 [![Current Version](https://img.shields.io/github/tag/qmk/qmk_firmware.svg)](https://github.com/qmk/qmk_firmware/tags)
